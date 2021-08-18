@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: config-client1
+    name: config-client
   cloud:
     #Config客户端配置
     config:
